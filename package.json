@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tirumalesh12/MongoDB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tirumalesh12/MongoDB/issues"
+  },
+  "homepage": "https://github.com/Tirumalesh12/MongoDB#readme"
+}
